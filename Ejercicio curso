@@ -757,7 +757,7 @@
                 |---------------------------------------------------------------------------------------------------------------------------------------- |
                 
                     A. La linea 1 iporta la clase Strategy de passport-jwt el cual es el motor que valiuda el token.
-                    B. La linea 2 importa ExtractJwt y sirve para infromarle a passport de donbde se saca el token.
+                    B. La linea 2 importa ExtractJwt y sirve para informarle a passport de donde se saca el token.
                     C. La linea 3 importa el modulo principal de passport.
                     D. La linea 4 importa Keys un archivo de confiuracion la cual es la que contiene la llave secreta.
                     E. La liena 5 importa el modelo de usuarios y lo que hace es que busca en la base de datos si este usuario que biene en el token si existe.
